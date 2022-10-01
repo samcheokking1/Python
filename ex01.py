@@ -1,2 +1,3 @@
-print("Hello Python")
-print("혼자 공부하다 모르겠으면 강의를 참고하세요!")
+print("파이썬_키워드")
+import keyword
+print(keyword.kwlist)
